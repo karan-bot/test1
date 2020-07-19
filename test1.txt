@@ -1,2 +1,0 @@
-hi, I am file1
-hi i am now making  some changes in the file
